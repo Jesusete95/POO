@@ -1,0 +1,11 @@
+#fichero para excluir algún tipo
+#de archivos que no quiero que 
+#pertenezca al repositorio
+
+
+#backup del sistema
+*~
+*.sw.
+
+#los bytecodes (.class)
+*.class
